@@ -1263,6 +1263,7 @@ li {
 
 .heading-7 {
   position: fixed;
+  text-align: center;
 }
 
 .div-block-44 {
@@ -1406,7 +1407,7 @@ li {
   .image-2 {
     height: 24px;
     margin-bottom: 0px;
-    margin-left: 80px;
+    margin-left: 36px;
     padding-bottom: 0px;
   }
 
@@ -1819,12 +1820,17 @@ li {
   .heading {
     margin-top: 40px;
     margin-bottom: 30px;
+    margin-left: -6px;
+    font-size: 14vw;
+    line-height: 1vh;
   }
 
   .heading.s-copy {
     margin-top: 40px;
     margin-bottom: 30px;
-    padding-right: 10px;
+    padding-right: 0px;
+    font-size: 12.5vw;
+    line-height: 1vh;
   }
 
   .div-block {
@@ -1867,8 +1873,13 @@ li {
   }
 
   .heading-3 {
-    font-size: 5vw;
+    margin-bottom: 40px;
+    font-size: 6.4vw;
     font-weight: 900;
+  }
+
+  .section-4 {
+    height: 69vh;
   }
 
   .text-block-3 {
@@ -1876,7 +1887,7 @@ li {
   }
 
   .text-block-4 {
-    font-size: 15px;
+    font-size: 20px;
   }
 
   .text-block-5 {
@@ -1907,6 +1918,10 @@ li {
     padding-left: 0px;
   }
 
+  .div-block-14 {
+    height: 10vh;
+  }
+
   .column-10 {
     padding-top: 0px;
   }
@@ -1918,6 +1933,10 @@ li {
   .div-block-26 {
     width: 84.63999999999999vw;
     height: 126.49999999999999vw;
+  }
+
+  .a-copy-copy {
+    height: auto;
   }
 
   .column-15 {
@@ -1938,6 +1957,11 @@ li {
   .bold-text {
     font-size: 8vw;
     line-height: 9vw;
+  }
+
+  .bold-text.works {
+    font-size: 11.2vw;
+    line-height: 10vw;
   }
 
   .div-block-25-copy {
@@ -2018,7 +2042,7 @@ li {
   }
 
   .menu-button {
-    margin-right: -31px;
+    margin-right: -49px;
     padding-right: 0px;
   }
 
@@ -2083,12 +2107,18 @@ li {
     padding-top: 11px;
   }
 
+  .columns-8 {
+    height: auto;
+  }
+
   .column-20 {
     position: static;
+    height: 30vh;
   }
 
   .column-21 {
     position: static;
+    padding-bottom: 40px;
   }
 
   .text-block-16 {
@@ -2121,7 +2151,8 @@ li {
   .image-7 {
     display: block;
     margin-top: 31px;
-    margin-left: -16px;
+    margin-right: 53px;
+    margin-left: -35px;
     padding-top: 0px;
   }
 
@@ -2136,19 +2167,21 @@ li {
   }
 
   .lottie-animation-4 {
-    width: 28vh;
-    margin-top: 70vw;
+    width: 31vh;
+    margin-top: 68vw;
     margin-left: -3vw;
   }
 
   .lottie-animation-5 {
     width: 71vw;
-    margin-top: 4vw;
+    margin-top: -15vw;
     margin-left: 37vw;
   }
 
   .heading-7 {
-    font-size: 7vw;
+    max-width: 85%;
+    font-size: 6vw;
+    line-height: 34px;
   }
 
   .div-block-45 {
